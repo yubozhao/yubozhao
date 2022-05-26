@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 
-- 🔭 I’m currently working on [BentoML](https://github.com/bentoml/BentoML) - an open-source framework for high-performance ML model serving 🍱
+- 🔭 I’m founder of [BentoML](https://github.com/bentoml/BentoML) - an open-source framework for high-performance ML model serving 🍱
 - ❤️ I love sailing⛵️, reading📚 and cooking🍳
 - 🌱 I’m currently learning FPV drone ✈️ 
 - 🤔 I’m looking for help with [building BentoML](https://github.com/bentoml/BentoML) 💻
