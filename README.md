@@ -1,9 +1,14 @@
 ### Hi there 👋
 
+<p align="center">
+	<a href="https://twitter.com/bozhao"><img src="https://img.shields.io/twitter/follow/bozhao.svg?style=social" alt="Twitter"></a>
+	<a href="https://www.linkedin.com/in/bozhaoyu/"><img src="https://img.shields.io/badge/-bozhaoyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bozhaoyu/"></a>
+  <a href="https://calendly.com/bo-bentoml/15mins-with-bo"><img src=""></a>
+</p>
+
 
 - 🔭 I’m founder of [BentoML](https://github.com/bentoml/BentoML) - an open-source framework for high-performance ML model serving 🍱
 - ❤️ I love sailing⛵️, reading📚 and cooking🍳
-- 🌱 I’m currently learning FPV drone ✈️ 
+- 🌱 I’m currently learning Wing foiling 🌬️🏄‍♂️
 - 🤔 I’m looking for help with [building BentoML](https://github.com/bentoml/BentoML) 💻
-- 💬 Ask me about machine learning infrastructure and sailing
-- 📫 Reach me at: [email](bo@bentoml.com) | [twitter](https://twitter.com/bozhao) | [linkedin](https://www.linkedin.com/in/bozhaoyu/)
+- 📫 Reach me at: [email](bo@bentoml.com) | [Schedule 15 mins call](https://calendly.com/bo-bentoml/15mins-with-bo)
