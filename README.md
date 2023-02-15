@@ -2,8 +2,7 @@
 
 <p align="center">
 	<a href="https://twitter.com/bozhao"><img src="https://img.shields.io/twitter/follow/bozhao.svg?style=social" alt="Twitter"></a>
-	<a href="https://www.linkedin.com/in/bozhaoyu/"><img src="https://img.shields.io/badge/-bozhaoyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bozhaoyu/"></a>
-  <a href="https://calendly.com/bo-bentoml/15mins-with-bo"><img src=""></a>
+	<a href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=bozhaoyu"><img src="https://img.shields.io/badge/-bozhaoyu-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/bozhaoyu/"></a>
 </p>
 
 
