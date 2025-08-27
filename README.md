@@ -7,4 +7,4 @@
 
 - ❤️ I love sailing⛵️, reading📚 and cooking🍳
 - 🌱 I’m currently learning Wing foiling 🌬️🏄‍♂️
-- 📫 Reach me at: [email](bo@bisoform.ai) | [Schedule 15 mins call](https://cal.com/bozhao/fifteen-mins)
+- 📫 Reach me at: [email](bo@bisoform.ai) | [Schedule 15 mins call](https://cal.com/bozhao/15mins))
